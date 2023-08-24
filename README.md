@@ -39,6 +39,16 @@ Este projeto foi uma excelente oportunidade para aprendermos e aplicarmos concei
 ## Licença
 Esperamos que você aproveite o nosso Jogo da Velha tanto quanto nós aproveitamos o processo de criação. Divirta-se! 😄
 
-![Imagem do Jogo da Velha](inserir_link_da_imagem.png)
+![Tela de carregamento do jogo, escrito 'ogo da velha'](https://github.com/JandersonMota/Jogo-da-Velha/assets/80362674/75c694f6-d107-46b0-9467-e9bbe2ce5fc4)
+
+![Menu principal para escolher  jogar, tutorial e sair do jogo](https://github.com/JandersonMota/Jogo-da-Velha/assets/80362674/c6f64050-31be-42db-ac78-8f402a416c96)
+
+![Tutorial do jogo](https://github.com/JandersonMota/Jogo-da-Velha/assets/80362674/778efb12-3404-4f3b-ad94-bd3b06d0bf6c)
+
+![Menu principal](https://github.com/JandersonMota/Jogo-da-Velha/assets/80362674/6c3c399a-b8c1-4eca-af22-0f04811ae58c)
+
+![Tabuleiro do jogo](https://github.com/JandersonMota/Jogo-da-Velha/assets/80362674/a6e5b2fb-af17-421a-b66c-30a925205113)
+
+![Resultado do Jogo](https://github.com/JandersonMota/Jogo-da-Velha/assets/80362674/f724a6ae-14a1-4800-9388-2098d7ee0bb1)
 
 **Obrigado por jogar!**
