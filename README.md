@@ -37,6 +37,7 @@ Para jogar o nosso Jogo da Velha, siga os passos abaixo:
 Este projeto foi uma excelente oportunidade para aprendermos e aplicarmos conceitos de lógica de programação. Se você gostaria de contribuir com melhorias ou correções, sinta-se à vontade para criar um fork deste repositório e enviar um pull request.
 
 ## Licença
+Este projeto não possui uma licença específica, o que significa que você pode usá-lo, modificá-lo e distribuí-lo como desejar. No entanto, pedimos que você dê crédito aos desenvolvedores originais ao utilizar este código.
 Esperamos que você aproveite o nosso Jogo da Velha tanto quanto nós aproveitamos o processo de criação. Divirta-se! 😄
 
 ![Tela de carregamento do jogo, escrito 'ogo da velha'](https://github.com/JandersonMota/Jogo-da-Velha/assets/80362674/75c694f6-d107-46b0-9467-e9bbe2ce5fc4)
