@@ -4,8 +4,13 @@ Bem-vindo ao nosso projeto do Jogo da Velha desenvolvido como parte da disciplin
 
 ## Equipe
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/80362674?v=4" width=115><br><sub>Janderson Mota</sub>](https://github.com/JandersonMota) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/126207922?v=4" width=115><br><sub>Miguel</sub>](https://github.com/Troiano1) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/135672557?v=4" width=115><br><sub>Erick Borges</sub>](https://github.com/ErickBorgess) |
-| :---: | :---: | :---: |
+<table align="center">
+  <tr align="center">
+    <td><img loading="lazy" src="https://avatars.githubusercontent.com/u/80362674?v=4" width=115><br><a href="https://github.com/JandersonMota">Janderson Mota</a></td>
+    <td><img loading="lazy" src="https://avatars.githubusercontent.com/u/126207922?v=4" width=115><br><a href="https://github.com/Troiano1">Miguel</a></td>
+    <td><img loading="lazy" src="https://avatars.githubusercontent.com/u/135672557?v=4" width=115><br><a href="https://github.com/ErickBorgess">Erick Borges</a></td>
+  </tr>
+</table>
 
 ## Objetivo
 O objetivo deste projeto foi consolidar nossos conhecimentos em lógica de programação, estruturas de controle, e trabalhar em equipe para criar um programa que pudesse ser apreciado por outras pessoas. Decidimos pelo jogo da velha, pois é um jogo simples, mas que desafia os jogadores a pensarem estrategicamente.
